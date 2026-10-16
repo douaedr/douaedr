@@ -15,4 +15,6 @@ I am looking for a 4 to 6 month end-of-studies internship (PFE) starting in Febr
 
 Java / Spring Boot, Python, React, MySQL, PHP / Symfony, C# / .NET.
 
-<!-- TO ADD: LinkedIn / email -->
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/douae-derouich/)
